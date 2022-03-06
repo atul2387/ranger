@@ -232,7 +232,7 @@
         <hppc.version>0.8.0</hppc.version>
         <joda.time.version>2.10.6</joda.time.version>
         <jsonsmart.version>2.3.1</jsonsmart.version>
-        <nimbus-jose-jwt.version>8.22.1</nimbus-jose-jwt.version>
+        <nimbus-jose-jwt.version>8.23</nimbus-jose-jwt.version>
         <com.amazonaws.aws-java-sdk-bom.version>1.12.125</com.amazonaws.aws-java-sdk-bom.version>
 
         <!-- GCP HSM -->
